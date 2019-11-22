@@ -12,9 +12,9 @@
     <optiongroups>
       <optiongroup name="sidebaroptions">
         <options>
-          <option name="title_enabled" value="false">
+          <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="emailPhishing" />
+              <option name="title_text" value="Identify Phishing Emails" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1292,7 +1292,7 @@
       <links>
         <slidelink slideid="_player.5mZtWi9WyBD" displaytext="Identify Phising Emails" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5mZtWi9WyBD.5XOLBkvZYG6" displaytext="Start Lesson One" expand="false" type="slide" />
+            <slidelink slideid="_player.5mZtWi9WyBD.6eDFlQaYI1T" displaytext="Lesson One" expand="false" type="slide" />
             <slidelink slideid="_player.5mZtWi9WyBD.6UtFAlNxxtD" displaytext="Video Introduction" expand="false" type="slide" />
             <slidelink slideid="_player.5mZtWi9WyBD.6L7DniJMFAs" displaytext="Overview" expand="false" type="slide" />
             <slidelink slideid="_player.5mZtWi9WyBD.5lRyPzGO5Lp" displaytext="Clone Phishing  Information" expand="false" type="slide" />
